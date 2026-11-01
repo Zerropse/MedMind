@@ -203,7 +203,7 @@ MedMIND-AI does **not replace professional mental health care or medical advice*
 
 # 👨‍💻 Author
 
-**Sahil Singh**
+**Kush Singh**
 
 AI & Data Science Enthusiast
 
@@ -212,3 +212,5 @@ AI & Data Science Enthusiast
 # ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
+# MedMind
+# MedMind
